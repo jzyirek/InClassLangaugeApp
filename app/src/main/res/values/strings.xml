@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LanguageApp</string>
+    <string name="LanguageSelectLabel">Select Language</string>
+    <string name="RadioEnglish">English</string>
+    <string name="SpanishRadio">Spanish</string>
+    <string name="OutputView">You are now viewing in English</string>
+</resources>
